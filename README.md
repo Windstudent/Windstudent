@@ -1,4 +1,4 @@
-# Lu Zhang | 张禄
+# Lu Zhang
 
 Audio Algorithm Expert at XG Tech.
 
