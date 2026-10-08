@@ -36,7 +36,7 @@ Ph.D. in Electronic Science and Technology from Harbin Institute of Technology. 
 - **Immersive 3D upmixing.** Built a cabin upmixer from direct/ambient separation, VBAP imaging, and AI-assisted FDN reverberation, lifting stereo to 5.1, 5.1.4, 7.1, and 7.1.4. Engineered on a HiFi-5 DSP at 48 kHz, with 10 ms frames and 30 ms algorithmic latency.
 - **Vehicle sound delivery at NIO.** Built the in-house cabin audio algorithm team from scratch and delivered the Firefly sound system, including the Dolby 7.1 / 7.1.4 tuning architecture and Qualcomm ADSP deployment.
 - **In-cabin speech front-end.** Developed In-Car Communication and microphone-free karaoke pickup, using a lightweight denoiser, deployed on the Qualcomm 8295 ARM core.
-- **Multi-task source separation.** At Kuaishou, proposed Complex-MTASSNet, a two-stage complex-spectrum model for speech, music, and background, and released the [code](https://github.com/Windstudent/Complex-MTASSNet).
+- **Multi-task source separation.** At Kuaishou, proposed Complex-MTASSNet, a two-stage multi-task source separation model for speech, music, and background, and released the [code](https://github.com/Windstudent/Complex-MTASSNet).
 
 ## Selected Publications
 
