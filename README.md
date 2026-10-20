@@ -20,8 +20,8 @@ Ph.D. in Electronic Science and Technology from Harbin Institute of Technology. 
 ## Experience
 
 - `2025.07 - present`: Audio Algorithm Expert, XG Tech
-- `2025.03 - 2025.07`: Senior Engineer, Advanced Acoustics, Geely Automobile Research Institute
-- `2022.06 - 2025.03`: Senior Algorithm Engineer, NIO
+- `2025.03 - 2025.07`: Staff Engineer, Advanced Acoustics, Geely Automobile Research Institute
+- `2022.06 - 2025.03`: Staff Algorithm Engineer, NIO
 - `2021.02 - 2021.08`: Audio Algorithm Researcher (Intern), Kuaishou
 
 ## Education
